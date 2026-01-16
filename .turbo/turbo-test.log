@@ -1,10 +1,9 @@
 
-
-> @famgia/omnify-sql@0.0.14 test /Users/f.satoshi/Herd/omnify-ts/packages/sql-generator
+> @famgia/omnify-sql@0.0.14 test /Users/f.satoshi/Herd/omnify-ts/packages/omnify-plugin-sql-generator
 > vitest run --passWithNoTests
 
 
-[7m[1m[36m RUN [39m[22m[27m [36mv1.6.1[39m [90m/Users/f.satoshi/Herd/omnify-ts/packages/sql-generator[39m
+[7m[1m[36m RUN [39m[22m[27m [36mv1.6.1[39m [90m/Users/f.satoshi/Herd/omnify-ts/packages/omnify-plugin-sql-generator[39m
 
 [2minclude: [22m[33mpackages/*/src/**/*.{test,spec}.ts[39m
 [2mexclude:  [22m[33m**/node_modules/**[2m, [22m**/dist/**[2m, [22m**/cypress/**[2m, [22m**/.{idea,git,cache,output,temp}/**[2m, [22m**/{karma,rollup,webpack,vite,vitest,jest,ava,babel,nyc,cypress,tsup,build,eslint,prettier}.config.*[39m

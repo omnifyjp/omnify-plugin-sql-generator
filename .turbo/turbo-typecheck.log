@@ -1,5 +1,4 @@
 
-
-> @famgia/omnify-sql@0.0.14 typecheck /Users/f.satoshi/Herd/omnify-ts/packages/sql-generator
+> @famgia/omnify-sql@0.0.14 typecheck /Users/f.satoshi/Herd/omnify-ts/packages/omnify-plugin-sql-generator
 > tsc --noEmit
 
