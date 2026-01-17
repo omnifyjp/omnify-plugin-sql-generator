@@ -1,34 +1,34 @@
 
-> @famgia/omnify-sql@0.0.14 build /Users/f.satoshi/Herd/omnify-ts/packages/omnify-plugin-sql-generator
+> @famgia/omnify-sql@0.0.15 build /Users/f.satoshi/Herd/omnify-ts/packages/omnify-plugin-sql-generator
 > tsup
 
-CLI Building entry: src/index.ts, src/plugin.ts
-CLI Using tsconfig: tsconfig.json
-CLI tsup v8.5.1
-CLI Using tsup config: /Users/f.satoshi/Herd/omnify-ts/packages/omnify-plugin-sql-generator/tsup.config.ts
-CLI Target: es2022
-CLI Cleaning output folder
-CJS Build start
-ESM Build start
-ESM dist/chunk-OOIPCQ7I.js     35.52 KB
-ESM dist/plugin.js             1.62 KB
-ESM dist/index.js              894.00 B
-ESM dist/index.js.map          71.00 B
-ESM dist/plugin.js.map         4.42 KB
-ESM dist/chunk-OOIPCQ7I.js.map 72.05 KB
-ESM ⚡️ Build success in 302ms
-CJS dist/plugin.cjs             2.75 KB
-CJS dist/index.cjs              1.47 KB
-CJS dist/chunk-SGXQQITC.cjs     39.09 KB
-CJS dist/plugin.cjs.map         5.18 KB
-CJS dist/index.cjs.map          473.00 B
-CJS dist/chunk-SGXQQITC.cjs.map 60.12 KB
-CJS ⚡️ Build success in 305ms
-DTS Build start
-DTS ⚡️ Build success in 2277ms
-DTS dist/index.d.cts          4.77 KB
-DTS dist/plugin.d.cts         1.47 KB
-DTS dist/types-DkJkHX8d.d.cts 3.48 KB
-DTS dist/index.d.ts           4.77 KB
-DTS dist/plugin.d.ts          1.47 KB
-DTS dist/types-DkJkHX8d.d.ts  3.48 KB
+[34mCLI[39m Building entry: src/index.ts, src/plugin.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.5.1
+[34mCLI[39m Using tsup config: /Users/f.satoshi/Herd/omnify-ts/packages/omnify-plugin-sql-generator/tsup.config.ts
+[34mCLI[39m Target: es2022
+[34mCLI[39m Cleaning output folder
+[34mCJS[39m Build start
+[34mESM[39m Build start
+[32mESM[39m [1mdist/plugin.js             [22m[32m1.62 KB[39m
+[32mESM[39m [1mdist/index.js              [22m[32m894.00 B[39m
+[32mESM[39m [1mdist/chunk-OOIPCQ7I.js     [22m[32m35.52 KB[39m
+[32mESM[39m [1mdist/plugin.js.map         [22m[32m4.42 KB[39m
+[32mESM[39m [1mdist/index.js.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-OOIPCQ7I.js.map [22m[32m72.05 KB[39m
+[32mESM[39m ⚡️ Build success in 161ms
+[32mCJS[39m [1mdist/plugin.cjs             [22m[32m2.75 KB[39m
+[32mCJS[39m [1mdist/index.cjs              [22m[32m1.47 KB[39m
+[32mCJS[39m [1mdist/chunk-SGXQQITC.cjs     [22m[32m39.09 KB[39m
+[32mCJS[39m [1mdist/index.cjs.map          [22m[32m473.00 B[39m
+[32mCJS[39m [1mdist/chunk-SGXQQITC.cjs.map [22m[32m60.12 KB[39m
+[32mCJS[39m [1mdist/plugin.cjs.map         [22m[32m5.18 KB[39m
+[32mCJS[39m ⚡️ Build success in 165ms
+[34mDTS[39m Build start
+[32mDTS[39m ⚡️ Build success in 1804ms
+[32mDTS[39m [1mdist/index.d.cts          [22m[32m4.77 KB[39m
+[32mDTS[39m [1mdist/plugin.d.cts         [22m[32m1.47 KB[39m
+[32mDTS[39m [1mdist/types-DkJkHX8d.d.cts [22m[32m3.48 KB[39m
+[32mDTS[39m [1mdist/index.d.ts           [22m[32m4.77 KB[39m
+[32mDTS[39m [1mdist/plugin.d.ts          [22m[32m1.47 KB[39m
+[32mDTS[39m [1mdist/types-DkJkHX8d.d.ts  [22m[32m3.48 KB[39m
