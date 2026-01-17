@@ -1,6 +1,6 @@
 {
   "name": "@famgia/omnify-sql",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "description": "Raw SQL migration generator for Omnify Schema",
   "type": "module",
   "main": "./dist/index.cjs",
